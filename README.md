@@ -31,7 +31,7 @@
 <img src="assets/title-commits.svg" width="100%" alt="GitHub contribution activity — animated contribution chart.">
 <img src="assets/contribution-snake.svg" width="100%" alt="Meenal Patro's animated GitHub contribution chart, refreshed hourly from GitHub activity.">
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=MeenalPatro&show_icons=true&hide_rank=true&hide_border=true&border_radius=16&bg_color=190B12&title_color=E5B5C7&text_color=B6A3AC&icon_color=C77B9B&custom_title=GitHub%20at%20a%20glance" width="480" alt="GitHub statistics for MeenalPatro"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=MeenalPatro&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&border_radius=16&bg_color=190B12&title_color=E5B5C7&text_color=B6A3AC&icon_color=C77B9B&custom_title=GitHub%20at%20a%20glance" width="480" alt="GitHub statistics for MeenalPatro"></p>
 
 <img src="assets/title-certifications.svg" width="100%" alt="Certifications — certificates earned through learning.">
 <img src="assets/certifications.svg" width="100%" alt="Selected certificates in Google for Education AI, Cisco cybersecurity and networking, Python Essentials, Oracle Java, DBMS, C# .NET, and software engineering fundamentals.">
