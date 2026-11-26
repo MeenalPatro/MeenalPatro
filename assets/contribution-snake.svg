@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 410" width="1200" height="410" role="img" aria-labelledby="hm-title hm-desc">
   <title id="hm-title">GitHub contributions for @MeenalPatro</title>
-  <desc id="hm-desc">284 contributions from 23 Nov 2025 to 26 Nov 2026: 148 active days, longest streak 65 days, busiest day 22 contributions on 26 Nov 2026. Source: GitHub GraphQL API, snapshot 26 Nov 2026.</desc>
+  <desc id="hm-desc">285 contributions from 23 Nov 2025 to 26 Nov 2026: 148 active days, longest streak 65 days, busiest day 23 contributions on 26 Nov 2026. Source: GitHub GraphQL API, snapshot 26 Nov 2026.</desc>
   <defs>
     <linearGradient id="hm-bg" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#190B12"/><stop offset="1" stop-color="#10070C"/>
@@ -31,7 +31,7 @@
     <text class="hm-serif" x="54" y="110" font-size="27" font-weight="300" fill="#F8F0F3">A year of building, <tspan font-style="italic" fill="#E5B5C7">one square</tspan> at a time.</text>
     <g transform="translate(610 58)">
       <text class="hm-mono" font-size="10" letter-spacing="1.8" fill="#C77B9B">CONTRIBUTIONS</text>
-      <text class="hm-serif" y="44" font-size="36" font-weight="300" fill="#F8F0F3">284</text>
+      <text class="hm-serif" y="44" font-size="36" font-weight="300" fill="#F8F0F3">285</text>
       <text class="hm-mono" y="64" font-size="9.5" fill="#B6A3AC">Nov 2025 – Nov 2026</text>
     </g>
     <g transform="translate(760 58)">
@@ -46,7 +46,7 @@
     </g>
     <g transform="translate(1060 58)">
       <text class="hm-mono" font-size="10" letter-spacing="1.8" fill="#C77B9B">BUSIEST DAY</text>
-      <text class="hm-serif" y="44" font-size="36" font-weight="300" fill="#F8F0F3">22</text>
+      <text class="hm-serif" y="44" font-size="36" font-weight="300" fill="#F8F0F3">23</text>
       <text class="hm-mono" y="64" font-size="9.5" fill="#B6A3AC">26 Nov 2026</text>
     </g>
   </g>
@@ -270,9 +270,9 @@
     <rect class="hm-c" style="animation-delay:0.966s" x="669" y="277" width="15" height="15" rx="3.5" fill="#451126"><title>1 contribution · 19 Jun 2026</title><animate attributeName="fill" values="#451126;#1C0C15" keyTimes="0;0.4706" calcMode="discrete" dur="23.96s" begin="2.4s" repeatCount="indefinite"/></rect>
     <rect class="hm-c" style="animation-delay:0.995s" x="669" y="296" width="15" height="15" rx="3.5" fill="#451126"><title>1 contribution · 20 Jun 2026</title><animate attributeName="fill" values="#451126;#1C0C15" keyTimes="0;0.4683" calcMode="discrete" dur="23.96s" begin="2.4s" repeatCount="indefinite"/></rect>
     <rect class="hm-c" style="animation-delay:0.840s" x="688" y="182" width="15" height="15" rx="3.5" fill="#451126"><title>1 contribution · 21 Jun 2026</title><animate attributeName="fill" values="#451126;#1C0C15" keyTimes="0;0.4843" calcMode="discrete" dur="23.96s" begin="2.4s" repeatCount="indefinite"/></rect>
-    <rect class="hm-c" style="animation-delay:0.869s" x="688" y="201" width="15" height="15" rx="3.5" fill="#E5B5C7" filter="url(#hm-glow)"><title>5 contributions · 22 Jun 2026</title><animate attributeName="fill" values="#E5B5C7;#1C0C15" keyTimes="0;0.4866" calcMode="discrete" dur="23.96s" begin="2.4s" repeatCount="indefinite"/></rect>
+    <rect class="hm-c" style="animation-delay:0.869s" x="688" y="201" width="15" height="15" rx="3.5" fill="#A12556"><title>5 contributions · 22 Jun 2026</title><animate attributeName="fill" values="#A12556;#1C0C15" keyTimes="0;0.4866" calcMode="discrete" dur="23.96s" begin="2.4s" repeatCount="indefinite"/></rect>
     <rect class="hm-c" style="animation-delay:0.898s" x="688" y="220" width="15" height="15" rx="3.5" fill="#451126"><title>1 contribution · 23 Jun 2026</title><animate attributeName="fill" values="#451126;#1C0C15" keyTimes="0;0.4889" calcMode="discrete" dur="23.96s" begin="2.4s" repeatCount="indefinite"/></rect>
-    <rect class="hm-c" style="animation-delay:0.926s" x="688" y="239" width="15" height="15" rx="3.5" fill="#E5B5C7" filter="url(#hm-glow)"><title>5 contributions · 24 Jun 2026</title><animate attributeName="fill" values="#E5B5C7;#1C0C15" keyTimes="0;0.4912" calcMode="discrete" dur="23.96s" begin="2.4s" repeatCount="indefinite"/></rect>
+    <rect class="hm-c" style="animation-delay:0.926s" x="688" y="239" width="15" height="15" rx="3.5" fill="#A12556"><title>5 contributions · 24 Jun 2026</title><animate attributeName="fill" values="#A12556;#1C0C15" keyTimes="0;0.4912" calcMode="discrete" dur="23.96s" begin="2.4s" repeatCount="indefinite"/></rect>
     <rect class="hm-c" style="animation-delay:0.955s" x="688" y="258" width="15" height="15" rx="3.5" fill="#451126"><title>1 contribution · 25 Jun 2026</title><animate attributeName="fill" values="#451126;#1C0C15" keyTimes="0;0.4935" calcMode="discrete" dur="23.96s" begin="2.4s" repeatCount="indefinite"/></rect>
     <rect class="hm-c" style="animation-delay:0.984s" x="688" y="277" width="15" height="15" rx="3.5" fill="#451126"><title>1 contribution · 26 Jun 2026</title><animate attributeName="fill" values="#451126;#1C0C15" keyTimes="0;0.4958" calcMode="discrete" dur="23.96s" begin="2.4s" repeatCount="indefinite"/></rect>
     <rect class="hm-c" style="animation-delay:1.013s" x="688" y="296" width="15" height="15" rx="3.5" fill="#1C0C15"><title>0 contributions · 27 Jun 2026</title></rect>
@@ -328,7 +328,7 @@
     <rect class="hm-c" style="animation-delay:0.984s" x="840" y="182" width="15" height="15" rx="3.5" fill="#701A3D"><title>2 contributions · 16 Aug 2026</title><animate attributeName="fill" values="#701A3D;#1C0C15" keyTimes="0;0.6129" calcMode="discrete" dur="23.96s" begin="2.4s" repeatCount="indefinite"/></rect>
     <rect class="hm-c" style="animation-delay:1.013s" x="840" y="201" width="15" height="15" rx="3.5" fill="#701A3D"><title>2 contributions · 17 Aug 2026</title><animate attributeName="fill" values="#701A3D;#1C0C15" keyTimes="0;0.6152" calcMode="discrete" dur="23.96s" begin="2.4s" repeatCount="indefinite"/></rect>
     <rect class="hm-c" style="animation-delay:1.042s" x="840" y="220" width="15" height="15" rx="3.5" fill="#701A3D"><title>2 contributions · 18 Aug 2026</title><animate attributeName="fill" values="#701A3D;#1C0C15" keyTimes="0;0.6175" calcMode="discrete" dur="23.96s" begin="2.4s" repeatCount="indefinite"/></rect>
-    <rect class="hm-c" style="animation-delay:1.070s" x="840" y="239" width="15" height="15" rx="3.5" fill="#E5B5C7" filter="url(#hm-glow)"><title>5 contributions · 19 Aug 2026</title><animate attributeName="fill" values="#E5B5C7;#1C0C15" keyTimes="0;0.6198" calcMode="discrete" dur="23.96s" begin="2.4s" repeatCount="indefinite"/></rect>
+    <rect class="hm-c" style="animation-delay:1.070s" x="840" y="239" width="15" height="15" rx="3.5" fill="#A12556"><title>5 contributions · 19 Aug 2026</title><animate attributeName="fill" values="#A12556;#1C0C15" keyTimes="0;0.6198" calcMode="discrete" dur="23.96s" begin="2.4s" repeatCount="indefinite"/></rect>
     <rect class="hm-c" style="animation-delay:1.099s" x="840" y="258" width="15" height="15" rx="3.5" fill="#451126"><title>1 contribution · 20 Aug 2026</title><animate attributeName="fill" values="#451126;#1C0C15" keyTimes="0;0.6221" calcMode="discrete" dur="23.96s" begin="2.4s" repeatCount="indefinite"/></rect>
     <rect class="hm-c" style="animation-delay:1.128s" x="840" y="277" width="15" height="15" rx="3.5" fill="#451126"><title>1 contribution · 21 Aug 2026</title><animate attributeName="fill" values="#451126;#1C0C15" keyTimes="0;0.6244" calcMode="discrete" dur="23.96s" begin="2.4s" repeatCount="indefinite"/></rect>
     <rect class="hm-c" style="animation-delay:1.157s" x="840" y="296" width="15" height="15" rx="3.5" fill="#451126"><title>1 contribution · 22 Aug 2026</title><animate attributeName="fill" values="#451126;#1C0C15" keyTimes="0;0.6267" calcMode="discrete" dur="23.96s" begin="2.4s" repeatCount="indefinite"/></rect>
@@ -419,7 +419,7 @@
     <rect class="hm-c" style="animation-delay:1.218s" x="1087" y="182" width="15" height="15" rx="3.5" fill="#1C0C15"><title>0 contributions · 15 Nov 2026</title></rect>
     <rect class="hm-c" style="animation-delay:1.247s" x="1087" y="201" width="15" height="15" rx="3.5" fill="#451126"><title>1 contribution · 16 Nov 2026</title><animate attributeName="fill" values="#451126;#1C0C15" keyTimes="0;0.8333" calcMode="discrete" dur="23.96s" begin="2.4s" repeatCount="indefinite"/></rect>
     <rect class="hm-c" style="animation-delay:1.276s" x="1087" y="220" width="15" height="15" rx="3.5" fill="#451126"><title>1 contribution · 17 Nov 2026</title><animate attributeName="fill" values="#451126;#1C0C15" keyTimes="0;0.8310" calcMode="discrete" dur="23.96s" begin="2.4s" repeatCount="indefinite"/></rect>
-    <rect class="hm-c" style="animation-delay:1.304s" x="1087" y="239" width="15" height="15" rx="3.5" fill="#E5B5C7" filter="url(#hm-glow)"><title>5 contributions · 18 Nov 2026</title><animate attributeName="fill" values="#E5B5C7;#1C0C15" keyTimes="0;0.8287" calcMode="discrete" dur="23.96s" begin="2.4s" repeatCount="indefinite"/></rect>
+    <rect class="hm-c" style="animation-delay:1.304s" x="1087" y="239" width="15" height="15" rx="3.5" fill="#A12556"><title>5 contributions · 18 Nov 2026</title><animate attributeName="fill" values="#A12556;#1C0C15" keyTimes="0;0.8287" calcMode="discrete" dur="23.96s" begin="2.4s" repeatCount="indefinite"/></rect>
     <rect class="hm-c" style="animation-delay:1.333s" x="1087" y="258" width="15" height="15" rx="3.5" fill="#701A3D"><title>2 contributions · 19 Nov 2026</title><animate attributeName="fill" values="#701A3D;#1C0C15" keyTimes="0;0.8264" calcMode="discrete" dur="23.96s" begin="2.4s" repeatCount="indefinite"/></rect>
     <rect class="hm-c" style="animation-delay:1.362s" x="1087" y="277" width="15" height="15" rx="3.5" fill="#451126"><title>1 contribution · 20 Nov 2026</title><animate attributeName="fill" values="#451126;#1C0C15" keyTimes="0;0.8241" calcMode="discrete" dur="23.96s" begin="2.4s" repeatCount="indefinite"/></rect>
     <rect class="hm-c" style="animation-delay:1.391s" x="1087" y="296" width="15" height="15" rx="3.5" fill="#451126"><title>1 contribution · 21 Nov 2026</title><animate attributeName="fill" values="#451126;#1C0C15" keyTimes="0;0.8218" calcMode="discrete" dur="23.96s" begin="2.4s" repeatCount="indefinite"/></rect>
@@ -427,7 +427,7 @@
     <rect class="hm-c" style="animation-delay:1.265s" x="1106" y="201" width="15" height="15" rx="3.5" fill="#451126"><title>1 contribution · 23 Nov 2026</title><animate attributeName="fill" values="#451126;#1C0C15" keyTimes="0;0.8402" calcMode="discrete" dur="23.96s" begin="2.4s" repeatCount="indefinite"/></rect>
     <rect class="hm-c" style="animation-delay:1.294s" x="1106" y="220" width="15" height="15" rx="3.5" fill="#451126"><title>1 contribution · 24 Nov 2026</title><animate attributeName="fill" values="#451126;#1C0C15" keyTimes="0;0.8424" calcMode="discrete" dur="23.96s" begin="2.4s" repeatCount="indefinite"/></rect>
     <rect class="hm-c" style="animation-delay:1.322s" x="1106" y="239" width="15" height="15" rx="3.5" fill="#451126"><title>1 contribution · 25 Nov 2026</title><animate attributeName="fill" values="#451126;#1C0C15" keyTimes="0;0.8447" calcMode="discrete" dur="23.96s" begin="2.4s" repeatCount="indefinite"/></rect>
-    <rect class="hm-c" style="animation-delay:1.351s" x="1106" y="258" width="15" height="15" rx="3.5" fill="#E5B5C7" filter="url(#hm-glow)"><title>22 contributions · 26 Nov 2026</title><animate attributeName="fill" values="#E5B5C7;#1C0C15" keyTimes="0;0.8470" calcMode="discrete" dur="23.96s" begin="2.4s" repeatCount="indefinite"/></rect>
+    <rect class="hm-c" style="animation-delay:1.351s" x="1106" y="258" width="15" height="15" rx="3.5" fill="#E5B5C7" filter="url(#hm-glow)"><title>23 contributions · 26 Nov 2026</title><animate attributeName="fill" values="#E5B5C7;#1C0C15" keyTimes="0;0.8470" calcMode="discrete" dur="23.96s" begin="2.4s" repeatCount="indefinite"/></rect>
   </g>
 
   <g class="hm-motion">
