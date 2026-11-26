@@ -1,9 +1,9 @@
-<a href="https://github.com/MeenalPatro/">
-  <img src="assets/ashish-hero-portrait.svg" width="100%" alt="Meenal Patro — learning by building.">
+<a href="https://meenalpatro.github.io/">
+  <img src="assets/meenal-hero-portrait.svg" width="100%" alt="Meenal Patro — learning by building.">
 </a>
 
 <p align="center">
-  <a href="https://github.com/MeenalPatro/"><img src="https://img.shields.io/badge/Portfolio-GitHub_Profile-701A3D?style=for-the-badge&labelColor=190B12&logo=githubpages&logoColor=F8F0F3" alt="Portfolio"></a>
+  <a href="https://meenalpatro.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit_Site-701A3D?style=for-the-badge&labelColor=190B12&logo=githubpages&logoColor=F8F0F3" alt="Portfolio"></a>
   <a href="https://github.com/MeenalPatro"><img src="https://img.shields.io/badge/GitHub-MeenalPatro-701A3D?style=for-the-badge&labelColor=190B12&logo=github&logoColor=F8F0F3" alt="GitHub profile"></a>
 </p>
 <p align="center">
@@ -23,7 +23,7 @@
 <img src="assets/project-starcloset-v2.svg" width="100%" alt="Asmeera Lifeline — PHP, MySQL, JavaScript and Maps. Connects people seeking help with volunteers and NGOs.">
 <img src="assets/project-multitenant-saas-v2.svg" width="100%" alt="Academic Record System — HTML, CSS, JavaScript and file handling. Manages academic information.">
 
-<p align="center"><a href="https://github.com/MeenalPatro"><img src="https://img.shields.io/badge/Explore-GitHub_Projects-451126?style=for-the-badge&labelColor=190B12&logo=githubpages&logoColor=F8F0F3" alt="Explore all projects"></a></p>
+<p align="center"><a href="https://meenalpatro.github.io/#projects"><img src="https://img.shields.io/badge/Explore-Portfolio_Projects-451126?style=for-the-badge&labelColor=190B12&logo=githubpages&logoColor=F8F0F3" alt="Explore all projects"></a></p>
 
 <img src="assets/title-toolkit.svg" width="100%" alt="Technologies learned and used.">
 <img src="assets/tech-constellation-v2.svg" width="100%" alt="Technologies explored: C, Python, PHP, Java, C sharp, HTML, CSS, JavaScript, Flask, Laravel, MySQL, SQLite3, DBMS, Flutter and Kotlin.">
@@ -40,7 +40,7 @@
 <p align="center">
   <a href="mailto:meenalpatro@gmail.com"><img src="https://img.shields.io/badge/Email-meenalpatro%40gmail.com-701A3D?style=for-the-badge&labelColor=190B12&logo=gmail&logoColor=F8F0F3" alt="Email Meenal Patro"></a>
   <a href="https://www.linkedin.com/in/meenal-patro-1b607032b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-701A3D?style=for-the-badge&labelColor=190B12&logo=linkedin&logoColor=F8F0F3" alt="LinkedIn"></a>
-  <a href="https://github.com/MeenalPatro"><img src="https://img.shields.io/badge/Portfolio-GitHub-000000?style=for-the-badge&labelColor=190B12&logo=vercel&logoColor=F8F0F3" alt="GitHub portfolio"></a>
+
   <a href="https://github.com/MeenalPatro"><img src="https://img.shields.io/badge/GitHub-Follow-701A3D?style=for-the-badge&labelColor=190B12&logo=github&logoColor=F8F0F3" alt="GitHub profile"></a>
 </p>
-<a href="https://github.com/MeenalPatro/"><img src="assets/footer-signature-v2.svg" width="100%" alt="Meenal Patro — learning one project at a time."></a>
+<a href="https://meenalpatro.github.io/"><img src="assets/footer-signature-v2.svg" width="100%" alt="Meenal Patro — learning one project at a time."></a>
