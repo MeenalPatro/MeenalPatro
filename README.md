@@ -38,9 +38,7 @@
 
 <img src="assets/title-connect.svg" width="100%" alt="Connect — let’s learn and build together.">
 <p align="center">
-  <a href="mailto:meenalpatro@gmail.com"><img src="https://img.shields.io/badge/Email-meenalpatro%40gmail.com-701A3D?style=for-the-badge&labelColor=190B12&logo=gmail&logoColor=F8F0F3" alt="Email Meenal Patro"></a>
-  <a href="https://www.linkedin.com/in/meenal-patro-1b607032b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-701A3D?style=for-the-badge&labelColor=190B12&logo=linkedin&logoColor=F8F0F3" alt="LinkedIn"></a>
-
+  <a href="mailto:meenalpatro@gmail.com"><img src="https://img.shields.io/badge/Email-meenalpatro%40gmail.com-701A3D?style=for-the-badge&labelColor=190B12&logo=gmail&logoColor=F8F0F3" alt="Email Meenal Patro"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/meenal-patro-1b607032b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-701A3D?style=for-the-badge&labelColor=190B12&logo=linkedin&logoColor=F8F0F3" alt="LinkedIn"></a>&nbsp;
   <a href="https://github.com/MeenalPatro"><img src="https://img.shields.io/badge/GitHub-Follow-701A3D?style=for-the-badge&labelColor=190B12&logo=github&logoColor=F8F0F3" alt="GitHub profile"></a>
-</p>
-<a href="https://meenalpatro.github.io/"><img src="assets/footer-signature-v2.svg" width="100%" alt="Meenal Patro — learning one project at a time."></a>
+</p><a href="https://meenalpatro.github.io/"><img src="assets/footer-signature-v2.svg" width="100%" alt="Meenal Patro — learning one project at a time."></a>
